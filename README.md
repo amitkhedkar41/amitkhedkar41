@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm last year student from electronics and telecommunication branch..<br><br>I have the better knowledge in JAVA programming language. also have a proficient knowledge about HTML,CSS and javascript. also with that i have better ccommand on Data structure and Algorithms.<br><br>I'm quick learner with having interest in new technology innovations.
+(img align="right" alt="Coding" width="400" src="https://www.dropbox.com/s/hswfi3q3gt0f6ul/IMG_20220819_125341-02-01.jpeg?dl=0")
 
 
 ## 🌐 Socials:
