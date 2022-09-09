@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm last year student from electronics and telecommunication branch..<br><br>I have the better knowledge in JAVA programming language. also have a proficient knowledge about HTML,CSS and javascript. also with that i have better ccommand on Data structure and Algorithms.<br><br>I'm quick learner with having interest in new technology innovations.
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sumitsaurabh927&label=Profile%20views&color=0e75b6&style=flat](https://media-exp1.licdn.com/dms/image/C4D03AQH_5tKXocXdcw/profile-displayphoto-shrink_400_400/0/1661019542501?e=1668038400&v=beta&t=fJ1Ylftp1GcZdRMqIBRqr4Oqm04Z8mNkjfvs19uUJeA)" alt="Amit khedkar" /> </p>
+<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQH_5tKXocXdcw/profile-displayphoto-shrink_400_400/0/1661019542501?e=1668038400&v=beta&t=fJ1Ylftp1GcZdRMqIBRqr4Oqm04Z8mNkjfvs19uUJeA" alt="Amit khedkar" /> </p>
 
 
 ## 🌐 Socials:
